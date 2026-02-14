@@ -20,7 +20,7 @@ regimes and whether those behavioral shifts affect performance.
 
 ## Setup Instructions
 
-1.  Clone the repository: git clone `<repo_link>`{=html}
+1.  Clone the repository: git clone `(https://github.com/AJAY-GUGGILLA/trader-sentiment-analysis/tree/main)`{=html}
 
 2.  Install dependencies: pip install -r requirements.txt
 
